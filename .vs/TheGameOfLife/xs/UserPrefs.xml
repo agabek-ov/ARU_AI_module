@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{0411CE99-CF64-45A3-861D-E1EEA94495B1}|Default">
+  <MonoDevelop.Ide.ItemProperties.TheGameOfLife PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheGameOfLife/GameLauncher.cs">
+    <Files>
+      <File FileName="TheGameOfLife/GameLauncher.cs" Line="37" Column="6" />
+      <File FileName="TheGameOfLife/Statistics.cs" />
+      <File FileName="TheGameOfLife/Insect.cs" />
+      <File FileName="TheGameOfLife/Greenfly.cs" />
+      <File FileName="TheGameOfLife/Ladybird.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TheGameOfLife" expanded="True">
+            <Node name="TheGameOfLife" expanded="True">
+              <Node name="GameLauncher.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
