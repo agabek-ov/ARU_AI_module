@@ -1,6 +1,9 @@
 # ARU_AI_module
 
-This project was made by me during completing Artificial Intelligence module at ARU (Achieved mark: 87%).
+This console application was made by me during completing Artificial Intelligence module at ARU (Achieved mark: 87%).
+
+Mainly it was made in Visual Studio in C#. However, in order to analyse average lifespan of each insect a MATLAB script
+was written which could be found in bin folder.
 
 Assignment description:
 In 1970 the British mathematician John Conway formulated ‘The Game of Life’ which models the evolution of
