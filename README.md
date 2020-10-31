@@ -34,7 +34,7 @@ Move. Every  time  step,  if  there  is  an  adjacent  greenfly  (up,  down,  le
 and eat the greenfly. Otherwise, the ladybird moves according  to  the  same  rules  as  the  greenfly.  Note  that  a  ladybird  cannot 
 eat  other ladybirds.
 
-Breed. If a ladybirdsurvives for eighttime steps, then at the end of the time step it will spawn off another ladybird in the same manner as
+Breed. If a ladybird survives for eight time steps, then at the end of the time step it will spawn off another ladybird in the same manner as
 the greenfly.
 
 Starve.  If  a  ladybird  has  not  eaten  a  greenfly  within  the  last  three  time  steps,  then  at the  end  of  the  third  time  
